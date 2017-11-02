@@ -1,4 +1,6 @@
 # i
 .gradle/
 .idea/
+out/
 
+/src/main/java/Main.java
